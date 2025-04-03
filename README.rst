@@ -6,8 +6,8 @@ mirrors, and contribute to projects hosted on Github.
 
 You can find more about me and what I do over in the following places:
 
-* My website (`en <https://thomas.touhey.uk/>`_,
-  `fr <https://thomas.touhey.fr/>`_);
+* `My English website <https://thomas.touhey.uk/>`_
+  / `My French website <https://thomas.touhey.fr/>`_;
 * `My LinkedIn profile <https://www.linkedin.com/in/thomas-touhey/>`_;
 * `My Fediverse profile <https://social.touhey.org/@thomas>`_;
 * `My Gitlab.com profile <https://gitlab.com/thomas.touhey>`_.
